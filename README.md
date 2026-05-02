@@ -1,13 +1,13 @@
 # YuwenZhong-portfolio
 
-# Hi, I'm Yuwen 👋
+# Hi! I'm Yuwen 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yuwen%20Zhong&fontSize=45&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>Data Analyst | Business Analytics | E-commerce | BI | Machine Learning</b>
+  <b>Data Science | Business Analytics | E-commerce | BI | Machine Learning</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi! I'm **Yuwen**, a graduate student in **Information Systems Management at Carnegie Mellon University**.
 
@@ -26,7 +26,7 @@ I’m interested in using data to understand user behavior, optimize business de
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Data%20Query-blue?style=for-the-badge" />
@@ -44,7 +44,7 @@ I’m interested in using data to understand user behavior, optimize business de
 <table>
   <tr>
     <td width="50%">
-      <h3>🏨 Pricing Strategy A/B Test</h3>
+      <h3>Pricing Strategy A/B Test</h3>
       <p>
         Designed an A/B experiment to test whether transparent pricing improves hotel booking intention compared with partitioned pricing.
       </p>
@@ -57,7 +57,7 @@ I’m interested in using data to understand user behavior, optimize business de
       <a href="project_link_here">View Project →</a>
     </td>
     <td width="50%">
-      <h3>⚡ Outage Forecasting Model</h3>
+      <h3>Outage Forecasting Model</h3>
       <p>
         Built forecasting models to predict county-level power outages using historical outage and weather data.
       </p>
@@ -73,7 +73,7 @@ I’m interested in using data to understand user behavior, optimize business de
 
   <tr>
     <td width="50%">
-      <h3>📊 E-commerce Performance Dashboard</h3>
+      <h3>E-commerce Performance Dashboard</h3>
       <p>
         Built dashboards to monitor traffic, conversion rate, GMV, ROI, and campaign performance across product categories.
       </p>
@@ -86,7 +86,7 @@ I’m interested in using data to understand user behavior, optimize business de
       <a href="project_link_here">View Project →</a>
     </td>
     <td width="50%">
-      <h3>🐶 Animal Welfare Data Storytelling</h3>
+      <h3>Animal Welfare Data Storytelling</h3>
       <p>
         Created a visual storytelling project about border collie abandonment and broader shelter animal issues.
       </p>
@@ -103,7 +103,7 @@ I’m interested in using data to understand user behavior, optimize business de
 
 ---
 
-## 📈 Project Structure
+## Project Structure
 
 For each project, I usually organize my work as:
 
