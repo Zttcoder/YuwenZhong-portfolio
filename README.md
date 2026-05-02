@@ -22,7 +22,11 @@
 
 Hi! I'm **Yuwen**, a graduate student in **Information Systems Management at Carnegie Mellon University**.
 
-I’m interested in using data to understand user behavior, optimize business decisions, and build data-driven products. My experience focuses on **e-commerce analytics, A/B testing, forecasting, dashboarding, and business intelligence**.
+I’m a data analyst and aspiring data scientist with strong skills in SQL, Python, Excel, data visualization and modeling. 
+My previous internships have primarily been in e-commerce and internet-based companies, which has given me a solid understanding of business logic in digital marketing. At the same time, I am highly motivated to apply my data skills to other industries that I have not yet had the opportunity to explore.
+
+My professional experience along with my research and competition experience in data science, has strengthened my belief that : a strong data professional should work hard to ensure data consistency and accuracy, tell good stories through data and help people make data-driven decisions.
+
 
 ---
 
