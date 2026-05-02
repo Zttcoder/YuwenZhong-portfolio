@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your_email@example.com">Email</a> •
-  <a href="your_linkedin_url">LinkedIn</a> •
+  <a href="mailto:yuwenz020515@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/yuwen-zhong/">LinkedIn</a> •
   <a href="your_resume_url">Resume</a>
 </p>
 
