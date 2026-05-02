@@ -36,9 +36,9 @@ My professional experience along with my research and competition experience in 
   <img src="https://img.shields.io/badge/SQL-Data%20Query-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tableau-Dashboard-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerBI-BI%20Reporting-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-Analytics-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experiment-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Forecasting-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Modeling-purple?style=for-the-badge" />
 </p>
 
 ---
