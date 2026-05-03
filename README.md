@@ -105,11 +105,4 @@ My professional experience along with my research and competition experience in 
   </tr>
 </table>
 
----
 
-## Project Structure
-
-For each project, I usually organize my work as:
-
-```text
-Background → Data → Method → Result → Business Insight
