@@ -71,7 +71,7 @@ My professional experience along with my research and competition experience in 
       <p>
         <b>Tools:</b> Python
       </p>
-      <a href="project_link_here">View Project →</a>
+      <a href="https://github.com/Zttcoder/MLPS_FinalProject">View Project →</a>
     </td>
   </tr>
 
