@@ -50,18 +50,18 @@ My professional experience along with my research and competition experience in 
     <td width="50%">
       <h3>Pricing Strategy A/B Test</h3>
       <p>
-        Designed an A/B experiment to test whether transparent pricing improves hotel booking intention compared with partitioned pricing.
+        Designed an A/B experiment to test whether all-inclusive/transparent pricing improves hotel booking intention compared with partitioned pricing.
       </p>
       <p>
         <b>Methods:</b> A/B Testing, Balance Check, Regression Analysis
       </p>
       <p>
-        <b>Tools:</b> Python, Pandas, Statistical Testing
+        <b>Tools:</b> Qualtrics, Python(Pandas,Scikit-learn,statsmodels...), Excel
       </p>
       <a href="project_link_here">View Project →</a>
     </td>
     <td width="50%">
-      <h3>Outage Forecasting Model</h3>
+      <h3>Time Series Modeling for Power Outage Forecasting</h3>
       <p>
         Built forecasting models to predict county-level power outages using historical outage and weather data.
       </p>
@@ -69,7 +69,7 @@ My professional experience along with my research and competition experience in 
         <b>Models:</b> SARIMA, LSTM, Two-stage XGBoost Regression
       </p>
       <p>
-        <b>Tools:</b> Python, Xarray, Scikit-learn, Statsmodels
+        <b>Tools:</b> Python
       </p>
       <a href="project_link_here">View Project →</a>
     </td>
@@ -77,15 +77,15 @@ My professional experience along with my research and competition experience in 
 
   <tr>
     <td width="50%">
-      <h3>E-commerce Performance Dashboard</h3>
+      <h3>Text Mining for Earnings Meeting Minutes</h3>
       <p>
-        Built dashboards to monitor traffic, conversion rate, GMV, ROI, and campaign performance across product categories.
+        Analyzed corporate earnings call transcripts using NLP and machine learning to quantify digital transformation and evaluate its impact on company performance.
       </p>
       <p>
-        <b>Focus:</b> Funnel Analysis, Campaign Performance, Business Insights
+        <b>Models:</b> Word2Vec, BERT, MLP Neural Network
       </p>
       <p>
-        <b>Tools:</b> SQL, Tableau, Power BI
+        <b>Tools:</b> SQL, Excel, Python(Regex, Pytorch)
       </p>
       <a href="project_link_here">View Project →</a>
     </td>
