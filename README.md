@@ -58,7 +58,7 @@ My professional experience along with my research and competition experience in 
       <p>
         <b>Tools:</b> Qualtrics, Python(Pandas,Scikit-learn,statsmodels...), Excel
       </p>
-      <a href="project_link_here">View Project →</a>
+      <a href="https://github.com/Zttcoder/ABTesting_Pricing-Strategy">View Project →</a>
     </td>
     <td width="50%">
       <h3>Time Series Modeling for Power Outage Forecasting</h3>
