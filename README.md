@@ -100,7 +100,8 @@ My professional experience along with my research and competition experience in 
       <p>
         <b>Tools:</b> Tableau, Shorthand, Data Visualization
       </p>
-      <a href="project_link_here">View Project →</a>
+      <a href="https://carnegiemellon.shorthandstories.com/tswd-final-yuwenz/index.html">View Webpage →</a><br>
+      <a href="https://github.com/Zttcoder/zyw-portfolio-2026.3">View Project →</a>
     </td>
   </tr>
 </table>
